@@ -1,6 +1,7 @@
 # 2024 Question 3
 
 ## This question is about...
+- Use indexOf in the question
 - Part A:
   - Return true if each element of wordList contains the previous element as a substring
   - Return false if not
